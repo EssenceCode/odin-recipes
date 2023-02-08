@@ -1,0 +1,42 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: rgb(169, 121, 43);
+}
+
+.block {
+    display: block;
+    margin:auto;
+    
+ 
+   
+}
+
+.recipe{
+    color: plum;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
